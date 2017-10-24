@@ -1,4 +1,4 @@
-#PyCmdMessenger
+# PyCmdMessenger
 
 Python class for communication with an arduino using the
 [CmdMessenger](https://github.com/thijse/Arduino-CmdMessenger) serial
